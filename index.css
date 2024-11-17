@@ -29,6 +29,7 @@ body {
     margin-bottom: 60px;
     border-radius: 15px;
     background-color: hsl(216, 50%, 16%);
+    box-shadow: 1px 10px 1px 15px rgb(12, 23, 41);
 }
 
 .container img {
@@ -120,7 +121,7 @@ span {
     .container {
         height: 100px;
         width: 90%;
-        height: 60%;
+        height: 65%;
         padding: 20px;
         margin-top: 60px;
         margin-bottom: 60px;

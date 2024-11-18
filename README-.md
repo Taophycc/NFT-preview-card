@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [taophycc](https://your-solution-url.com)
+- Live Site URL: [taophycc.github.io](https://taophycc.github.io/NFT-preview-card/)
 
 
 
@@ -51,15 +51,15 @@ I learnt how to create an NFT preview card using HTML and CSS. This challenge he
 
 ### Continued development
 
-I want emphasize more on making my media queries skills  more perfect in order to create more challenges that can be accessed though the web and on a mobile phone or tablet.
+I want to emphasize improving my media query skills to create challenges that can be accessed through the web and on a mobile phone or tablet.
 
 
 
 
 ## Author
 
-- Website - [Add your name here](https://www,github.com/taophycc)
+- Website - [taophycc](https://www,github.com/taophycc)
 - Frontend Mentor - [@taophycc](https://www.frontendmentor.io/profile/taophycc)
-- Twitter - [@yourusername](https://www.twitter.com/taophyc_)
+- Twitter - [@taophyc_](https://www.twitter.com/taophyc_)
 
 
